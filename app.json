@@ -136,10 +136,10 @@
       "value": "",
       "required": false 
     },
-    "STACK": {
-      "description": "STACK NAME ",
-      "value": "container | heroku-22 | 4246315815290786|01|2026|717",
-      "required": false 
+      "AUTO_REACTION": {
+    "description": "Reacts emoji to all messages.",
+     "value": "false",
+     "required": false 
     }
   }, 
   "addons": [{ "plan": "heroku-postgresql:basic" }],
